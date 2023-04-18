@@ -1,0 +1,119 @@
+ <header>
+
+     <h1 class="logo">
+     </h1> 
+    
+</header>
+     
+   <main>
+   <title>tiítulo da página</title>
+    <p> </p>
+   <button>Click Aqui</button> 
+   <button>Click Aqui</button>
+   <img src=”foto.da.pagina.jpg>
+   </main>
+
+   <h1></h1>
+   <img src=”images.jpg>
+    <h2></h2>
+     <h3></h3>
+    <p> </p>
+     
+
+  <h1></h1>
+  <img src=”images.jpg">
+    <h2></h2>
+     <h3></h3>
+     <p> </p>
+     
+    <h1></h1>
+  <img src=”images.jpg">
+    <h2></h2>
+    <h3></h3>
+    <p> </p>
+
+    <h1></h1>
+  <img src=”images.jpg>
+    <h2></h2>
+     <h3></h3>
+    <p> </p>
+
+
+
+       <h1></h1>
+       <h2></h2>
+       <p> </p>
+       <button>Click Aqui</button>
+<div class= "fundo">
+<p> </p>
+<h4></h4> 
+<div class= "fundo">
+<p> </p>
+<h4></h4>
+<div class= "fundo">
+ <p> </p>
+ <h3></h3>
+
+
+      <h1></h1>
+      <img src=”images.jpg">
+      <img src=”images.jpg">
+      <img src=”images.jpg">
+      <img src=”images.jpg">
+      <img src=”images.jpg">
+      <img src=”images.jpg">
+
+   <img src=”images.jpg">
+   <h3></h3>
+   <p> </p>
+   <hr>
+   <h3></h3>
+   <p> </p>
+   <hr>
+ <h2></h2>
+ <h3></h3>
+ <p> </p>
+<button>Click Aqui</button>
+ <img src=”images.jpg">
+
+ <img src=”images.jpg">
+<h2></h2>
+ <p> </p>
+<h3></h3>
+<p> </p>
+ <p> </p>
+ <p> </p>
+ <p> </p>
+<h3></h3>
+<p> </p>
+ <p> </p>
+      
+<footer>
+<h2></h2>
+ <p> </p>
+<i><h2></h2>
+ <p> </p>
+<i><h2></h2>
+ <p> </p>
+<i><h2></h2>
+ <p> </p>
+
+<h3></h3>
+<p> </p>
+  <hr>
+<h3></h3>
+<p> </p>
+  <hr>
+<h3></h3>
+<p> </p>
+  <hr>
+<h3></h3>
+<p> </p>
+  <hr>
+<button>Click Aqui</button>
+<div class= "fundo">
+<button>Fassa a sua assinatura aqui para novidades</button> 
+<div class= "fundo">
+
+
+     
